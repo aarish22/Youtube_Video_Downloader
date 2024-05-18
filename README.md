@@ -26,7 +26,7 @@ This project is a Python-based YouTube video downloader that allows users to dow
 
 1. **Clone the Repository**:
     ```bash
-    git clone https://github.com/yourusername/youtube-video-downloader.git
+    git clone https://github.com/aarish22/Youtube_Video_Downloader.git
     cd youtube-video-downloader
     ```
 
