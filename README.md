@@ -38,7 +38,7 @@ This project is a Python-based YouTube video downloader that allows users to dow
 
 3. **Run the Script**:
     ```bash
-    python youtube_downloader.py
+    python youtube.py
     ```
 
 4. **Follow the Prompts**:
